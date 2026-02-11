@@ -1,0 +1,9 @@
+time
+period
+occasion
+moment
+season
+era
+duration
+leisure
+opportunity

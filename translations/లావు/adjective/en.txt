@@ -1,0 +1,9 @@
+fat
+obese
+heavy
+large
+bulky
+plump
+stout
+chubby
+overweight

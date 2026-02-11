@@ -1,0 +1,5 @@
+time
+occasion
+period
+turn
+opportunity
